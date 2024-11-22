@@ -1,0 +1,26 @@
+[
+    {
+        "model_path": "Models/model_lr0.5_epoch20_ngram1",
+        "f1_score_on_dev": 0.780825,
+        "f1_score_on_test": 0.7826875,
+        "learning_rate": 0.5,
+        "epoch": 20,
+        "ngram": 1
+    },
+    {
+        "model_path": "Models/model_lr0.5_epoch15_ngram1",
+        "f1_score_on_dev": 0.782,
+        "f1_score_on_test": 0.7837458333333334,
+        "learning_rate": 0.5,
+        "epoch": 15,
+        "ngram": 1
+    },
+    {
+        "model_path": "Models/model_lr0.01_epoch20_ngram1",
+        "f1_score_on_dev": 0.79125,
+        "f1_score_on_test": 0.7928,
+        "learning_rate": 0.01,
+        "epoch": 20,
+        "ngram": 1
+    }
+]
